@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of mitismirza/flarum-rtl.** Not for installation: use [Packagist](https://packagist.org/packages/mitismirza/flarum-rtl) or the [upstream repository](https://github.com/mitismirza/flarum-rtl).
 
-**0** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/mitismirza-flarum-rtl/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.4.0`
+**2** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/mitismirza-flarum-rtl/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.4.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1` | 2019-08-28 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/mitismirza-flarum-rtl/tree/archive/v1) |
+| `v1.0.1` | 2022-09-05 | `^1.4.0` | [Browse](https://github.com/flarchive/mitismirza-flarum-rtl/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/mitismirza-flarum-rtl.json](https://github.com/flarchive/archive-index/blob/main/packages/mitismirza-flarum-rtl.json)
 
